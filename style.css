@@ -97,7 +97,7 @@ html, body{
 }
 
 .bio{
-    padding-top: 65px;
+    padding-top: 55px;
     text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.664);
     color: whitesmoke;
     letter-spacing: 2px;
@@ -379,7 +379,7 @@ nav b{
 
 .area-icon {
     margin: 0 auto;
-    margin-left: 50%;
+    padding-left: 50%;
     width: 200px;
     text-align: center;
     color: black;
@@ -399,7 +399,7 @@ nav b{
     margin-top: 20%;
     letter-spacing: 2px;
     color: black;
-    margin-left: 30%;
+    padding-left: 80%;
 }
 
 .mention p{
