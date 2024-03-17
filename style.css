@@ -344,7 +344,7 @@ nav b{
     padding: 0 20px;
 }
 /* stage photo */
-.slide-dc3{
+.slide{
     height: 80vh;
     border-radius: 29px;
     margin: 2px;
@@ -358,75 +358,6 @@ nav b{
     transition: all 0.7s ease-in-out;
     filter: blur(4px);
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.817);
-    background-image: url('./foto2/dc/DC-3.jpg');
-}
-
-.slide-dc4{
-    height: 80vh;
-    border-radius: 29px;
-    margin: 2px;
-    cursor: pointer;
-    color: black;
-    flex: 0.2;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-    transition: all 0.7s ease-in-out;
-    filter: blur(4px);
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.817);
-    background-image: url('./foto2/dc/DC-4.jpg');
-}
-
-.slide-dc6{
-    height: 80vh;
-    border-radius: 29px;
-    margin: 2px;
-    cursor: pointer;
-    color: black;
-    flex: 0.2;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-    transition: all 0.7s ease-in-out;
-    filter: blur(4px);
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.817);
-    background-image: url('./foto2/dc/DC-6.jpg');
-}
-
-.slide-dc9{
-    height: 80vh;
-    border-radius: 29px;
-    margin: 2px;
-    cursor: pointer;
-    color: black;
-    flex: 0.2;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-    transition: all 0.7s ease-in-out;
-    filter: blur(4px);
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.817);
-    background-image: url('./foto2/dc/DC-9.jpg');
-}
-
-.slide-dc10{
-    height: 80vh;
-    border-radius: 29px;
-    margin: 2px;
-    cursor: pointer;
-    color: black;
-    flex: 0.2;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-    transition: all 0.7s ease-in-out;
-    filter: blur(4px);
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.817);
-    background-image: url('./foto2/dc/DC-10.jpg');
 }
 
 .slide.active{
