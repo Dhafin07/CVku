@@ -309,9 +309,11 @@ nav a:hover{
     transition: 0.25s;
     background: rgb(56, 130, 209);
     color: white;
-
 }
 
+nav b{
+    color: black;
+}
 /* bagian foto2 */
 .foto h2{
     letter-spacing: 3px;
@@ -323,6 +325,7 @@ nav a:hover{
 
 .foto{
     margin-left: 50px;
+}
 .container {
     width: 100%;
     display: flex;
