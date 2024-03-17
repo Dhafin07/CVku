@@ -2,18 +2,6 @@
     box-sizing: border-box;
 }
 
-/* mobile device */
-/* @media screen and (max-width: 425px){
-    html,body {
-        width: 100vh ;
-        margin: auto;
-    }
-
-    .container-a{
-        width: 100rem auto;
-    }
-} */
-
 
 html, body{
     padding: 0;
@@ -67,7 +55,7 @@ html, body{
     color: #efefef;
     font-family: 'Lora', serif;
     letter-spacing: 3px;
-    font-size: 30pt;
+    font-size: 35pt;
     margin-right: 5px;
     padding: 30px;
     text-shadow: 5px 8px 7px gray;
@@ -81,7 +69,7 @@ html, body{
     margin-top: 0;
     margin-bottom: 1rem;
     font-family: 'Roboto', sans-serif;
-    font-size: 10pt;
+    font-size: 18pt;
     margin-right: 20px;
 }
 
@@ -377,38 +365,6 @@ nav b{
     align-content: center;
 }
 
-/* stage photo */
-/* .slide-dc3{
-    width: 95vw;
-    border-radius: 20px;
-    margin: 10px;
-}
-
-.slide-dc4{
-    width: 95vw;
-    border-radius: 20px;
-    margin: 10px;
-}
-
-.slide-dc6{
-    width: 95vw;
-    border-radius: 20px;
-    margin: 10px;
-}
-
-.slide-dc9{
-    width: 95vw;
-    border-radius: 20px;
-    margin: 10px;
-}
-
-.slide-10{
-    width: 95vw;
-    border-radius: 20px;
-    margin: 10px;
-} */
-
-
 .slide{
     width: 95vw;
     border-radius: 20px;
@@ -423,6 +379,7 @@ nav b{
 
 .area-icon {
     margin: 0 auto;
+    margin: 50px;
     width: 200px;
     text-align: center;
     color: black;
