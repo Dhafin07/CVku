@@ -55,7 +55,7 @@ html, body{
     color: #efefef;
     font-family: 'Lora', serif;
     letter-spacing: 3px;
-    font-size: 35pt;
+    font-size: 45pt;
     margin-right: 5px;
     padding: 30px;
     text-shadow: 5px 8px 7px gray;
@@ -69,7 +69,7 @@ html, body{
     margin-top: 0;
     margin-bottom: 1rem;
     font-family: 'Roboto', sans-serif;
-    font-size: 18pt;
+    font-size: 25pt;
     margin-right: 20px;
 }
 
@@ -379,7 +379,7 @@ nav b{
 
 .area-icon {
     margin: 0 auto;
-    margin-left: 50px;
+    padding-right: 15px;
     width: 200px;
     text-align: center;
     color: black;
@@ -399,7 +399,7 @@ nav b{
     margin-top: 20%;
     letter-spacing: 2px;
     color: black;
-    margin-left: 50px;
+    padding-right: 15px;
 }
 
 .mention p{
