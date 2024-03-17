@@ -379,7 +379,7 @@ nav b{
 
 .area-icon {
     margin: 0 auto;
-    padding-left: 10%;
+    padding-left: 5%;
     width: 200px;
     text-align: center;
     color: black;
@@ -399,7 +399,7 @@ nav b{
     margin-top: 20%;
     letter-spacing: 2px;
     color: black;
-    padding-left: 30%;
+    padding-left: 10%;
 }
 
 .mention p{
