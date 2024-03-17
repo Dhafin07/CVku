@@ -343,7 +343,7 @@ nav b{
     display: flex;
     padding: 0 20px;
 }
-/* stage photo */
+
 .slide{
     height: 80vh;
     border-radius: 29px;
@@ -377,12 +377,43 @@ nav b{
     align-content: center;
 }
 
-.slide {
+/* stage photo */
+.slide-dc3{
     width: 95vw;
     border-radius: 20px;
     margin: 10px;
 }
 
+.slide-dc4{
+    width: 95vw;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.slide-dc6{
+    width: 95vw;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.slide-dc9{
+    width: 95vw;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.slide-10{
+    width: 95vw;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+
+.slide{
+    width: 95vw;
+    border-radius: 20px;
+    margin: 10px;
+}
 
 .button-organisasi b{
     color: black;
