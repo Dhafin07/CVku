@@ -320,6 +320,9 @@ nav a:hover{
     text-shadow: 5px 4px 7px gray;
     color: aliceblue;
 }
+
+.foto{
+    padding-right: 25px;
 .container {
     width: 100%;
     display: flex;
