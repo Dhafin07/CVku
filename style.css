@@ -19,7 +19,7 @@ html, body{
     padding: 0;
     margin: 0;
     height: 100vh auto;
-    background-image: url('C:/Users/LENOVO/.vscode/file/cv ku/home/SPP00299.JPG');
+    background-image: url('./SPP00299.JPG');
     background-position: relative;
     background-repeat: no-repeat;
     background-size: cover;
