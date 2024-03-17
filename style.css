@@ -78,7 +78,7 @@ html, body{
     color: white;
     font-family: fantasy;
     text-shadow: 5px 8px 7px gray;
-    padding-top: 25px;
+    padding-top: 20px;
 }
 
 .bio p{
@@ -379,7 +379,7 @@ nav b{
 
 .area-icon {
     margin: 0 auto;
-    margin-right: 20%;
+    margin-left: 50%;
     width: 200px;
     text-align: center;
     color: black;
@@ -399,7 +399,7 @@ nav b{
     margin-top: 20%;
     letter-spacing: 2px;
     color: black;
-    margin-right: 15%;
+    margin-left: 30%;
 }
 
 .mention p{
