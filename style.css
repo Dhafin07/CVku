@@ -69,7 +69,7 @@ html, body{
     margin-top: 0;
     margin-bottom: 1rem;
     font-family: 'Roboto', sans-serif;
-    font-size: 20pt;
+    font-size: 18pt;
     margin-right: 20px;
 }
 
@@ -379,7 +379,7 @@ nav b{
 
 .area-icon {
     margin: 0 auto;
-    padding-left: 15px;
+    margin-left: 20%;
     width: 200px;
     text-align: center;
     color: black;
@@ -399,7 +399,7 @@ nav b{
     margin-top: 20%;
     letter-spacing: 2px;
     color: black;
-    padding-right: 15px;
+    margin-left: 15%;
 }
 
 .mention p{
