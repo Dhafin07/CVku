@@ -33,7 +33,7 @@ html, body{
     border-bottom-left-radius: 10%;
     border-bottom-right-radius: 10%;
     box-shadow: 5px 5px 15px rgba(116, 227, 255, 0.817);
-    background-image: url('C:/Users/LENOVO/.vscode/file/cv ku/home/bg.JPG');
+    background-image: url('./bg.JPG');
     background-position: relative;
     position: relative;
 }
