@@ -47,7 +47,7 @@ html, body{
     letter-spacing: 3px;
 }
 
-img{
+.bg-ppku img{
     border-radius: 50%;
     border: 3px solid #efefef;
     box-shadow: 5px 8px 10px;
@@ -118,6 +118,18 @@ img{
 .pendidikan{
     text-align: justify;
 }
+
+.pendidikan  img{
+    border-radius: 50%;
+    border: 3px solid #efefef;
+    box-shadow: 5px 8px 10px;
+    overflow: hidden;
+    height: 130px;
+    width: 130px;
+    float: left;
+    margin-left: 30px;
+    margin-right: 35px;
+  }
 
 .pendidikan h4{
     padding-top: 80px;
